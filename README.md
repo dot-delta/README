@@ -1,1 +1,2 @@
-# README
+- 个人博客站点代码或个人兴趣相关项目托管! (**非主号, 与工作号分离**)
+- Hackathon projects attached or post code here
